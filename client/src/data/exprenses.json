@@ -1,0 +1,32 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "date": 123123,
+      "description": "Some expenses",
+      "type": "Food",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "date": 123123,
+      "description": "Some expenses 2",
+      "type": "Taxi",
+      "amount": 12
+    },
+    {
+      "id": 3,
+      "date": 123123,
+      "type": "Cats",
+      "amount": 13
+    },
+    {
+      "id": 41,
+      "date": 123123,
+      "description": "Some expenses 4",
+      "type": "Products",
+      "amount": 14
+    }
+  ],
+  "listOfTypes": ["Food", "Taxi", "Cats", "Products"]
+}
